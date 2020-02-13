@@ -50,4 +50,4 @@ Cocinero().start()
 
 for i in range(5):
   Comensal(i).start()
-
+#no esta bien

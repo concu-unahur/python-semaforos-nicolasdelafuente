@@ -32,3 +32,12 @@ La salida debería verse más o menos así:
 19:22:57.350 [Comensal 4] - ¡Qué rico! Quedan 2 platos
 19:22:57.350 [Comensal 3] - ¡Qué rico! Quedan 1 platos
 ```
+
+## Variantes de comensales.py
+
+Ahora podés probar algunas variantes. Por ejemplo
+
+* Que haya más de un cocinero, compiten por quién cocina primero y solamente uno puede cocinar.
+* Que haya más de un cocinero, y pueden cocinar dos a la vez.
+* Que el cocinero agregue platos antes de que se terminen. (Ahora nunca se va a dar el caso de que un comensal tenga que esperar al cocinero porque no hay más platos).
+* La cantidad de comensales que pueden pedir platos al mismo tiempo son 2.
